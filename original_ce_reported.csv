@@ -1,0 +1,9 @@
+metric,token_id,character,unit_or_note
+best_validation_CE,5.92,6.02,nats per target
+best_epoch,8,8,epoch
+last_validation_CE,8.13,7.42,nats per target at epoch 50
+last_training_CE_approx,1.8,3.0,approximate nats at epoch 50
+last_minus_best,2.21,1.40,nats computed from reported values
+LAMBADA_CE_epoch50,9.92,10.01,nats per mapped target
+LAMBADA_IV_top1_correct,0,0,among 1988 in-vocabulary targets of 5153
+LAMBADA_OOV_count,3165,3165,5153 minus 1988

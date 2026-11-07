@@ -1,0 +1,15 @@
+{
+  "input_params_token_id": 2560000,
+  "input_params_char": 63969,
+  "transformer_params": 1586176,
+  "output_params_including_bias": 2580000,
+  "untied_token_model_total": 6726176,
+  "char_model_total": 4230145,
+  "char_total_reduction_percent_vs_untied_token": 37.1092133182361,
+  "char_input_reduction_percent_vs_token_input": 97.5012109375,
+  "hypothetical_tied_token_total": 4166176,
+  "char_total_excess_vs_tied_token_params": 63969,
+  "char_total_excess_percent_vs_tied_token": 1.5354368130391034,
+  "char_full_token_convolution_and_projection_macs": 6883328,
+  "char_maximum_theoretical_receptive_field_slots": 13
+}

@@ -1,0 +1,9 @@
+component,parameters,macs_per_full_length_token
+character lookup,8960,0
+128 to 64 projection and LN,8384,1048576
+two width-64 residual blocks with LN,33280,4194304
+64 to 32 projection and LN,2144,262144
+two width-32 residual blocks with LN,8448,1048576
+32 to 16 projection and LN,560,65536
+two width-16 residual blocks with LN,2176,262144
+final scalar projection,17,2048

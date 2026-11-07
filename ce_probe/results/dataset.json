@@ -1,0 +1,33 @@
+{
+  "corpus_sha256": "1afac2fbe9bfb76f5eb8eff6c888f13378bb226c3859c4fa3c416532af62018f",
+  "splits": {
+    "train": {
+      "topics_with_examples": 49,
+      "paragraphs": 378,
+      "transitions": 13795,
+      "target_unk": 2090
+    },
+    "val": {
+      "topics_with_examples": 10,
+      "paragraphs": 204,
+      "transitions": 7139,
+      "target_unk": 1397
+    },
+    "test": {
+      "topics_with_examples": 7,
+      "paragraphs": 118,
+      "transitions": 4760,
+      "target_unk": 846
+    }
+  },
+  "test_subset_transitions": {
+    "all": 4760,
+    "iv": 3934,
+    "oov": 826,
+    "unseen": 299
+  },
+  "word_types_by_split_union": 2207,
+  "train_word_types": 1749,
+  "numpy_version": "2.3.5",
+  "unigram_test_ce": 4.739018983760411
+}

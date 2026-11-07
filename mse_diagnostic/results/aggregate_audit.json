@@ -1,0 +1,9 @@
+{
+  "raw_mse_baseline_over_char": 32.527472527472526,
+  "total_variance_baseline_over_char": 22.53012048192771,
+  "implied_test_mean_nmse_token": 1.5195721925133692,
+  "implied_test_mean_nmse_char": 1.0525301204819277,
+  "implied_nmse_baseline_over_char": 1.443732737850385,
+  "validation_evalmask_mse_increase_token": 11.19047619047619,
+  "validation_evalmask_mse_increase_char": 78.48101265822784
+}

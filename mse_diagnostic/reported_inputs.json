@@ -1,0 +1,18 @@
+{
+  "source": "Rounded aggregates from the supplied manuscript: Table 1 and Sec. 3.3. Original model outputs are unavailable.",
+  "target_dimension": 128,
+  "token_id": {
+    "lambada_mse": 0.888,
+    "target_total_variance": 74.8,
+    "test_mean_nmse_rounded": 1.52,
+    "validation_masked_mse": 1.41,
+    "validation_unmasked_mse": 0.126
+  },
+  "char_encoder": {
+    "lambada_mse": 0.0273,
+    "target_total_variance": 3.32,
+    "test_mean_nmse_rounded": 1.05,
+    "validation_masked_mse": 0.062,
+    "validation_unmasked_mse": 0.00079
+  }
+}
